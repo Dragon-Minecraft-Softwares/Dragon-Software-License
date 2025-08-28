@@ -2,7 +2,7 @@
 一个简单的证书,主要用来反资本   
 A simlpe to understand while effective License to protect you rights to your Software while benifiting the community.
 # 命名格式
-**The Dragon Software License [Type:*****] (Version:*****)**   
+**The Dragon Software License [Type:xxxxxxx] (Version:xxxxxxx)**   
 ## 种类标志
 OS: 只对开源软件有效   
 AD: 允许再分发   
